@@ -4,7 +4,7 @@
 ## My Most Recent Work
 <br />
 
-  ### Ritchie Bros. Auctioneers - Mobile App
+### Ritchie Bros. Auctioneers - Mobile App
   ![image](https://user-images.githubusercontent.com/21064788/176204172-46b978ff-0139-4fd3-aecc-0cac98557b0e.png)
 
   At Ritchie Bros, as the the Product Manager for the mobile app, my job was to facilitate the construction and continued improvement of the comapany's flagship mobile application. Ritchie Bros. is the world’s largest industrial auctioneer, conducting hundreds of live unreserved public auctions each year, with both onsite and online bidding. 
